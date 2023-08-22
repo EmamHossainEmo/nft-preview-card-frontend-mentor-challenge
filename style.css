@@ -45,6 +45,7 @@ figure {
   border-radius: 5px;
   width: 295px;
   position: relative;
+  overflow: hidden;
 }
 
 figure:hover figcaption {
